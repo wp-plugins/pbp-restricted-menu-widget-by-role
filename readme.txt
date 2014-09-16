@@ -12,7 +12,7 @@ Display menu or widget items based on if a user is logged in, logged out or both
 == Description ==
 Display menu or widget items based on if a user is logged in, logged out or both.
 
-Created By: www.projoktibangla.net
+Created By: http://goo.gl/Ou4dOP
 
 == Installation ==
 
