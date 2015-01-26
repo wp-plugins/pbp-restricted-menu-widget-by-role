@@ -3,7 +3,7 @@
  * Plugin Name: PBP Restricted Menu-Widget by role
  * Plugin URI: http://projoktibangla.net
  * Description: Display menu or widget items based on if a user is logged in, logged out or both.
- * Version: 1.0
+ * Version: 1.1
  * Author: projoktibangla
  * Author URI: http://projoktibangla.net
  * License: GPL2
