@@ -42,7 +42,13 @@ Wordpress does not yet have sufficient hooks in this area of the admin panel.  D
 = 1.0 =
 First Release
 
+= 1.1 =
+Little Update
+
 == Upgrade Notice ==
 
 = 1.0 =
 First Release
+
+= 1.1 =
+Little Update
