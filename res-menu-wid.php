@@ -3,7 +3,7 @@
  * Plugin Name: PBP Restricted Menu-Widget by role
  * Plugin URI: http://projoktibangla.net
  * Description: Display menu or widget items based on if a user is logged in, logged out or both.
- * Version: 1.1
+ * Version: 1.1.1
  * Author: projoktibangla
  * Author URI: http://projoktibangla.net
  * License: GPL2
@@ -183,7 +183,7 @@ if ( ! function_exists( 'is_admin' ) ) {
 class privWidget {
 
 function privilege_widget_form_extend( $instance, $widget ) {
- 		$row .= "\tid_base}[{$widget->number}][classes]'  id='widget-{$widget->id_base}-{$widget->number}-classes'  class='widefat'>\n";
+ 		$row = "\tid_base}[{$widget->number}][classes]'  id='widget-{$widget->id_base}-{$widget->number}-classes'  class='widefat'>\n";
 		
                 /* Get the roles saved for the post. */
                 //$roles = get_post_meta( $item->ID, '_priv_widget', true );

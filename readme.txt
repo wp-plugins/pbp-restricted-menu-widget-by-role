@@ -2,8 +2,8 @@
 Contributors: projoktibangla	
 tags: restriction, restricted, menu, widget, by role, logged in, logged out user
 Requires at least: 3.7
-Tested up to: 4.1
-Stable tag: 1.1
+Tested up to: 4.2
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,17 +38,31 @@ This usually occurs due to a plugin conflict.  The Admin Menu Walker can only ha
 
 Wordpress does not yet have sufficient hooks in this area of the admin panel.  Due to this plugins are forced to load a modifed custom Admin Menu Walker.  The custom Admin Menu Walker is limited to one so only one Admin Panel menu modification plugin can be active at one time.
 
+== Screenshot ==
+1. Restriction at Menu.
+2. Restriction at Widget.
+
+
 == Changelog ==
-= 1.0 =
-First Release
+
+= 1.1.1 =
+* Compitable with WP 4.2 version.
+* Minor Bug Fixed.
 
 = 1.1 =
 Little Update
+
+= 1.0 =
+First Release
 
 == Upgrade Notice ==
 
-= 1.0 =
-First Release
+= 1.1.1 =
+* Compitable with WP 4.2 version.
+* Minor Bug Fixed.
 
 = 1.1 =
 Little Update
+
+= 1.0 =
+First Release
