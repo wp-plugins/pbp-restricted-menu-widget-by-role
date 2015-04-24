@@ -38,7 +38,7 @@ This usually occurs due to a plugin conflict.  The Admin Menu Walker can only ha
 
 Wordpress does not yet have sufficient hooks in this area of the admin panel.  Due to this plugins are forced to load a modifed custom Admin Menu Walker.  The custom Admin Menu Walker is limited to one so only one Admin Panel menu modification plugin can be active at one time.
 
-== Screenshot ==
+== Screenshots ==
 1. Restriction at Menu.
 2. Restriction at Widget.
 
